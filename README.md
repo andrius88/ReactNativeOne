@@ -1,8 +1,8 @@
-[This project was built as a test assignment of one company.]
+[This project was built as a test assignment of one company.
 
-[The assignment itself and description of project setup is provided in the file “Hands-on task.pdf”.]
+[The assignment itself and description of project setup is provided in the file “Hands-on task.pdf”.
 
-[The guidance below was automatically created by GitHub.]
+[The guidance below was automatically created by GitHub.
 
 *********************************************************
 
